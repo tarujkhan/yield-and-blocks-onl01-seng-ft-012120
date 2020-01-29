@@ -12,7 +12,6 @@ def hello_t(array)
 else
   puts "Hey! No Block was given!"
 end
-end
 
 
 # call your method here!
