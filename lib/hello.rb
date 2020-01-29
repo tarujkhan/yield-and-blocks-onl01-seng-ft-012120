@@ -7,7 +7,8 @@ def hello_t(array)
     i = i + 1
   end
   array
-elseputs "Hey! No Block was given"
+else
+  puts "Hey! No Block was given"
 end
 end
 
